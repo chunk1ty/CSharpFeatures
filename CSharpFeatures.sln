@@ -15,9 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFeatures.CSharp2.Null
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp3", "CSharp3", "{9BF08F53-8521-405C-80E4-705D4AD7B199}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpression", "src\LambdaExpression\LambdaExpression.csproj", "{31895272-9F50-4ABE-8B5A-CDDA374D1A14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpression", "src\CSharp3\LambdaExpression\LambdaExpression.csproj", "{31895272-9F50-4ABE-8B5A-CDDA374D1A14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "src\LINQ\LINQ.csproj", "{692A7ACF-86F9-421B-A1FC-44DA6358C747}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "src\CSharp3\LINQ\LINQ.csproj", "{692A7ACF-86F9-421B-A1FC-44DA6358C747}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
